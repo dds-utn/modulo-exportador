@@ -1,2 +1,4 @@
-# modulo-exportador
-Dominio resuelto con patrones Adapter y Strategy
+# Módulo exportador
+
+![Enunciado](Enunciado.png)
+![Diagrama de clases](Diagrama_de_clases.png)

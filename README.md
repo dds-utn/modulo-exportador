@@ -1,4 +1,4 @@
 # Módulo exportador
 
-![Enunciado](Enunciado.png)
-![Diagrama de clases](Diagrama_de_clases.png)
+![Enunciado](Enunciado.PNG)
+![Diagrama de clases](Diagrama_de_clases.PNG)
